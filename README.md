@@ -3,7 +3,7 @@
 ## _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
 
-#### Safety
+### _Safety_
 
 - Bushfires occur in the summertime, so monitor the news and local media if you're travelling at that time
 - Drink spiking is common; so do not leave your drink unattended
@@ -11,13 +11,13 @@ Like every other holiday destination, precautions have to be taken into account 
 
 ![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png) 
 
-#### Local Laws
+### _Local Laws_
 - Always carry photo identification or ID                                                                       
 - Gambling is only legal in licensed venues
 - Possession or use of illegal drugs will attract large fines
 - If you are a victim of crime, or have gotten yourself in some sort of unwanted trouble, contact [APAV](http://apav.pt/mihy/index.php/welcome)
 
-#### Health
+### _Health_
 - Medical treatment is expensive (no reciprocal healthcare agreement between Portugal and Australia)
 - May need an import permit to get medication by post
 

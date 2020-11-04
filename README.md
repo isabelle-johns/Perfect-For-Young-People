@@ -1,4 +1,4 @@
-![header-portugal](https://user-images.githubusercontent.com/73572478/97767372-c546bf80-1b6f-11eb-8aa5-55632cab228f.jpg)
+![image](https://user-images.githubusercontent.com/73572478/98091541-ad599d80-1ed9-11eb-84a8-4658933b65bf.png)
 
 ## _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.

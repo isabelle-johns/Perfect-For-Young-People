@@ -25,6 +25,8 @@ Like every other holiday destination, precautions have to be taken into account 
 When in trouble, the _Consular Services Charter_ details what the Australian Government can assist you with overseas. If you are seeking consular assistance, you should visit or contact the Australian Embassy in Lisbon. 
 - [visit Portugal Australian Embassy website Here](http://www.portugal.embassy.gov.au/lbon/home.html)
 - Their email address; ausemb.lisbon@dfat.gov.au
+
+
 <a href="https://isabelle-johns.github.io/Travel-to-Portugal/" title="Back to Home Page">Back To Home Page</a>
 
   

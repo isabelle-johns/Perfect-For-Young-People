@@ -9,8 +9,6 @@ Like every other holiday destination, precautions have to be taken into account 
 - Drink spiking is common; so do not leave your drink unattended
 - Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 
-![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png) 
-
 ### _Local Laws_
 - Always carry photo identification or ID                                                                       
 - Gambling is only legal in licensed venues
@@ -20,6 +18,8 @@ Like every other holiday destination, precautions have to be taken into account 
 ### _Health_
 - Medical treatment is expensive (no reciprocal healthcare agreement between Portugal and Australia)
 - May need an import permit to get medication by post
+
+![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png) 
 
 ## _Local Contacts_
 When in trouble, the _Consular Services Charter_ details what the Australian Government can assist you with overseas. If you are seeking consular assistance, you should visit or contact the Australian Embassy in Lisbon. 
